@@ -1,0 +1,46 @@
+body{
+    background-image:url("imagem2/imagem3.jpg");
+    background-repeat:no-repeat;
+    background-size:30% 30%;
+   background-position: 900px 500px;
+   
+  }
+.bloco1{
+    width: 50%;
+    height: 850px;
+    margin: 0 auto;
+    border: 1px solid white;
+    background-color: #555;
+    color:white;
+}
+.bloco2{
+   width: 50%;
+    height:850px;
+    margin: 0 auto;
+    border: 1px solid white;
+    background-color: #555;
+    color:white;
+}
+.juntar{
+display:flex;
+}
+.borda1
+{
+border: 1px solid white;
+}
+.borda2{
+    border:1px solid white;
+   background-color: #000;
+    color:white;
+    height: 300px;
+}
+.fonte3
+{
+font-size:25px;
+text-align: center;
+}
+.fonte4
+{
+font-size:20px;
+
+}
